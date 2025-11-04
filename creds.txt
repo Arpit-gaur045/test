@@ -1,2 +1,0 @@
-username = arpi01
-password= mumma@12
